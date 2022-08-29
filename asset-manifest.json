@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/card-game/static/css/main.e2a1f2cf.css",
+    "main.js": "/card-game/static/js/main.5136dd6f.js",
+    "index.html": "/card-game/index.html",
+    "main.e2a1f2cf.css.map": "/card-game/static/css/main.e2a1f2cf.css.map",
+    "main.5136dd6f.js.map": "/card-game/static/js/main.5136dd6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2a1f2cf.css",
+    "static/js/main.5136dd6f.js"
+  ]
+}
